@@ -1,2 +1,4 @@
 # GoogleGenAI_Kaggle
-Code for the Google Agents Course on Kaggle
+
+Code developed during the Google and Kaggle GenAI course in 2025
+https://www.kaggle.com/learn-guide/5-day-agents
